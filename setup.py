@@ -18,12 +18,12 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name='ThaiAddressParser',
+    name='ThaiAddressParserPlus',
     version='1.0.0',
     author='Shuai Li',
     author_email='li.shuai@wustl.edu',
-    url='https://github.com/HandsomeBrotherShuaiLi/ThaiAddressParser',
-    description="Thailand Address Parser",
+    url='https://github.com/dsin/ThaiAddressParserPlus',
+    description="Thailand Address Parser Plus",
     long_description=long_description,
     long_description_content_type="text/markdown",
     packages=setuptools.find_packages(),
