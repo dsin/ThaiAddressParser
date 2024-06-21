@@ -1,24 +1,24 @@
-# ThaiAddressParser  
-![](https://img.shields.io/badge/language-python3-green.svg) ![](https://img.shields.io/badge/author-Shuai_Li-black.svg) ![](https://img.shields.io/badge/building-pass-yellow.svg) ![](https://img.shields.io/badge/license-MIT-pink.svg)      
-`ThaiAddressParser` is a fast and unlimited python library which can deliver the structured Thailand address from the original free Thai sentence with translations.   
+# ThaiAddressParser
+![](https://img.shields.io/badge/language-python3-green.svg) ![](https://img.shields.io/badge/author-Shuai_Li-black.svg) ![](https://img.shields.io/badge/building-pass-yellow.svg) ![](https://img.shields.io/badge/license-MIT-pink.svg)
+`ThaiAddressParser` is a fast and unlimited python library which can deliver the structured Thailand address from the original free Thai sentence with translations.
 Meanwhile, it can extract the province, district, sub district from the original address sentence.
-It is compatible with Python 3.  
+It is compatible with Python 3.
 This unique algorithm is developed by [the author](https://github.com/HandsomeBrotherShuaiLi)
-## Feature  
-* Fast (1.5 ms per sentence) 
+## Feature
+* Fast (1.5 ms per sentence)
 * Stable (no external APIs)
 * Easy to use and understand
 * Robust
 * Thread-safe
-* Thai-En address Translation 
+* Thai-En address Translation
 ## Installation
 For python3:
 ```angular2
-pip3 install ThaiAddressParser
+pip3 install ThaiAddressParserPlus
 ```
 For python2:
 ```angular2
-pip install ThaiAddressParser
+pip install ThaiAddressParserPlus
 ```
 ## Usage
 ```angular2
